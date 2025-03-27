@@ -1,0 +1,7 @@
+# Court dimensions in meters (pickleball)
+COURT_WIDTH = 6.1
+COURT_LENGTH = 13.4
+KITCHEN_LENGTH = 2.13
+NET_HEIGHT = 0.91
+FRAME_WIDTH = 1280
+FRAME_HEIGHT = 720
